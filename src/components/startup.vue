@@ -1,6 +1,6 @@
 <template>
     <div class="start">
-       <p class="army-font">犯我强汉者<br>虽远必诛！</p>
+
     </div>
 </template>
 
