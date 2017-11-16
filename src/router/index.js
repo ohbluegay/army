@@ -4,6 +4,7 @@ import Start from '@/components/startup'
 
 Vue.use(Router)
 
+
 export default new Router({
   routes: [
     {
