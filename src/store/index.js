@@ -3,5 +3,5 @@
  */
 import Vue from 'vue';
 export default a = () =>{
-  console.log(1,'2');
+  console.log(1,'3');
 }
